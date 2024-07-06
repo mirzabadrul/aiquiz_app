@@ -59,7 +59,7 @@ def main():
         .title {
             font-size: 3em;
             font-weight: bold;
-            color: #4B8BBE;
+            color: #FFFF7A;
             text-align: center;
             margin-top: 0.5em;
             margin-bottom: 0.5em;
@@ -71,14 +71,14 @@ def main():
             margin-bottom: 1.5em;
         }
         .stButton button {
-            background-color: #306998;
-            color: white;
+            background-color: #FFFF7A;
+            color: black;
             border-radius: 5px;
             padding: 0.5em 1em;
             font-size: 1em;
         }
         .stButton button:hover {
-            background-color: #4B8BBE;
+            background-color: #FFFF7A;
         }
         .question {
             text-align: center;
