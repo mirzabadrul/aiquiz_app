@@ -18,8 +18,7 @@ Hi Everyone, I'm Mirza! 👋 I'm a Computer Science Student.
 5. Dynamic Content: Generates new questions on demand, offering a fresh and varied
 
 
-# Bagdes 
-## Artificial Intelligence and Bots
+## Bagdes 
 
 | Name             | Badges     |
 | :----------------| :-------   |
@@ -27,5 +26,6 @@ Hi Everyone, I'm Mirza! 👋 I'm a Computer Science Student.
 | Google Assistant | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) |
 | Python           | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  |
 
-
+## Documentation
+[Documentation](https://linktodocumentation)
 
