@@ -28,7 +28,7 @@ def get_question(subject):
         messages=[
             {
                 "role": "system",
-                "content": """You are an AI that generates educational content. You will generates question each time."""
+                "content": """You are an AI that generates educational content. You will generates different questions each time."""
                             ,
             },
             {
@@ -56,6 +56,9 @@ def main():
     st.markdown(
         """
         <style>
+        body {
+            background-color: black;
+        }
         .title {
             font-size: 3em;
             font-weight: bold;
