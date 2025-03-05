@@ -1,8 +1,3 @@
-
-## 🚀 About Me
-Hi Everyone, I'm Mirza! 👋 I'm a Computer Science Student and i just new here
-
-
 # Project Title
 
 ## Interactive Learning Quiz 📚
